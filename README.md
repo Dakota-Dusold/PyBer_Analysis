@@ -10,8 +10,8 @@
 - Rural cities made up less than 6% of total rides while only having 2.6% of the total drivers. However, they occupied 6.8% of the total fares. They also averaged more per driver and per ride than both suburban or urban cities.  
 - Suburban cities made up 26.3% of total rides and 30.5% of total fares with only 16.4% of total drivers!
 - Urban cities account for the majority of our current business with 68.4% of rides, 80.9% of drivers, and 62.3% of total fares. 
-- Summary DataFrame
-![](Resources/PyBer_DataFrame.PNG)
+    - Summary DataFrame
+![](Resources/PyBer_Summary_DataFrame.PNG)
     - Multiple-Line Graph
 ![](Resources/Total_Fares_City_Type.PNG)
 
